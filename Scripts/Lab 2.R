@@ -1,7 +1,7 @@
 ---
   title: "EDLD 653 Lab 2"
 output: html_document
-Name  : Merly Klaas
+Name  : "Merly Klaas"
 ---
   
   ```{r setup, include=FALSE}
