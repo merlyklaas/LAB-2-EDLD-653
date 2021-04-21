@@ -1,7 +1,7 @@
 ---
   title: "EDLD 653 Lab 2"
 output: html_document
-Name  : Merly Klaas
+Name  : "Merly Klaas"
 ---
   
   ```{r setup, include=FALSE}
@@ -68,7 +68,6 @@ plot1 <-
                  color = "white") +
   geom_vline(aes(xintercept=mean(slope, na.rm = T)))
 plot1
-ggsave(here::here("plot","by student.pdf"))
 ```
 
 # Part B: Star Wars
